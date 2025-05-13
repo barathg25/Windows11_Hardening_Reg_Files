@@ -1,6 +1,9 @@
-# 1st run   
+# 1st run
+
 enable_all_audit_policies.bat (file)  
-#2nd run  
+
+# 2nd run
+
 apply_all_hardenning_regs.bat (file)
 
 
