@@ -1,1 +1,0 @@
-# Windows11_Hardening_Reg_Files
