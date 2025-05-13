@@ -1,3 +1,9 @@
+# 1st run   
+enable_all_audit_policies.bat (file)  
+#2nd run  
+apply_all_hardenning_regs.bat (file)
+
+
 Windows 11 Security Hardening Pack (.reg files)
 -------------------------------------------------
 This pack includes registry files to enhance audit logging for integration with Wazuh or other SIEM/EDR tools.
