@@ -1,6 +1,6 @@
 # 1st run
 
-enable_all_audit_policies.bat (file)  
+enable_all_audit_policies.bat (file)  --> to check cmd is : auditpol /get /category:*
 
 # 2nd run
 
